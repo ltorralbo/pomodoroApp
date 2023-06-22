@@ -1,6 +1,4 @@
 <h1 align="center">
-    <img alt="Ignite timer" src=".github/Logo.png" />
-    <br>
     POMODORO
 </h1>
 
